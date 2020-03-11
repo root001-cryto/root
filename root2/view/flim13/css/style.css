@@ -1528,4 +1528,7 @@ p.para{
 	display: inline-block;
 	font-size: 16px;
 }
-video{border:1px solid black;}
+video{
+	border:1px solid black;
+	
+}
